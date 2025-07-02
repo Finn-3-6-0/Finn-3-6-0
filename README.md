@@ -9,8 +9,16 @@
   - [Guess That Phrase](https://github.com/joshmadakor1/EncrypterPOC)
   - [Lakeside Escapes Booking Management System](https://github.com/joshmadakor1/DecrypterPOC)
 
+ - <b>Web Development</b>
+   - [Guess That Phrase](https://github.com/joshmadakor1/EncrypterPOC)
 
-<h2>📺 Popular YouTube Videos</h2>
+
+- <b>Python</b>
+  - [Guess That Phrase](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Lakeside Escapes Booking Management System](https://github.com/joshmadakor1/DecrypterPOC)
+ 
+  
+<h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
