@@ -20,7 +20,7 @@
   
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com)
+- [Link to my youtube coming soon :)](https://www.youtube.com)
 
 
 <h2> 🤳 Connect with me:</h2>
