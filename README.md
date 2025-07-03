@@ -7,7 +7,7 @@
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Guess That Phrase](https://github.com/Finn-3-6-0/GuessThatPhrase)
-  - [Lakeside Escapes Booking Management System](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Lakeside Escapes Booking Management System](https://github.com/Finn-3-6-0/Lakeside-Escapes-Booking-System)
 
  - <b>Web Development</b>
    - [Guess That Phrase](https://github.com/joshmadakor1/EncrypterPOC)
