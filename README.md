@@ -10,12 +10,12 @@
   - [Lakeside Escapes Booking Management System](https://github.com/Finn-3-6-0/Lakeside-Escapes-Booking-System)
 
  - <b>Web Development</b>
-   - [Guess That Phrase](https://github.com/joshmadakor1/EncrypterPOC)
+   - [Simpsons Fan Wiki](https://github.com/Finn-3-6-0/Simpsons-Fandom)
 
 
 - <b>Python</b>
-  - [Guess That Phrase](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Lakeside Escapes Booking Management System](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Move Your Mouse With Your Voice](https://github.com/Finn-3-6-0/Move-Mouse-With-Voice)
+  - [Jarvis Plays Rock Paper Scissors](https://github.com/Finn-3-6-0/Jarvis-Plays-RPS)
  
   
 <h2>📺 YouTube Videos</h2>
