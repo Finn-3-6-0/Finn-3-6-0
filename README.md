@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Guess That Phrase](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Guess That Phrase](https://github.com/Finn-3-6-0/GuessThatPhrase)
   - [Lakeside Escapes Booking Management System](https://github.com/joshmadakor1/DecrypterPOC)
 
  - <b>Web Development</b>
