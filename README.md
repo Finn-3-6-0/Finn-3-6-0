@@ -1,4 +1,4 @@
-<h1>Hi, I'm Finn! <br/><a href="https://github.com/Finn-3-6-0">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCCT3JyhHWdA9EIbB6qqLTYw">YouTuber</a></h1>
+<h1>Hi, I'm Finn!</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
