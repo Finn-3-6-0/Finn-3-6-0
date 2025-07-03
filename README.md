@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab in Oracle VirtualBox](https://github.com/Finn-3-6-0/Active-Directory)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Guess That Phrase](https://github.com/Finn-3-6-0/GuessThatPhrase)
@@ -20,7 +20,7 @@
   
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com)
 
 
 <h2> 🤳 Connect with me:</h2>
