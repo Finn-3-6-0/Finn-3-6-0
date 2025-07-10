@@ -24,7 +24,7 @@
   
 <h2>📺 YouTube Videos</h2>
 
-- [Link to my youtube coming soon :)](https://www.youtube.com)
+- [Link to my youtube coming soon :)](https://www.youtube.com/@Caf%C3%A9-404)
 
 
 <h2> 🤳 Connect with me:</h2>
