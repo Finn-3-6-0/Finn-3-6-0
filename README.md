@@ -24,14 +24,14 @@
   
 <h2>📺 YouTube Videos</h2>
 
-- [Link to my youtube coming soon :)](https://www.youtube.com/@Caf%C3%A9-404)
+- [Link to my youtube :)](https://www.youtube.com/@Caf%C3%A9-404)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FinnSinclair | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="FinnSinclair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com
+[youtube]: https://www.youtube.com/@Caf%C3%A9-404
 [linkedin]: https://www.linkedin.com/in/finn-sinclair-b79b82355
 
