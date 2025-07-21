@@ -18,7 +18,7 @@
 
 
 - <b>Python</b>
-  - [Move Your Mouse With Your Voice](https://github.com/Finn-3-6-0/Move-Mouse-With-Voice)
+  - [AI Meme Generator](https://github.com/Finn-3-6-0/MemeGenerator)
   - [Jarvis Plays Rock Paper Scissors](https://github.com/Finn-3-6-0/Jarvis-Plays-RPS)
  
   
